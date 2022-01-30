@@ -1,0 +1,15 @@
+{
+    "name": "ag/php-mvc-core",
+    "autoload": {
+        "psr-4": {
+            "Ag\\PhpMvcCore\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Armin Gellweiler",
+            "email": "armin@gellweiler.net"
+        }
+    ],
+    "require": {}
+}
