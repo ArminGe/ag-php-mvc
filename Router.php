@@ -1,19 +1,19 @@
 <?php
 /**
  * Project: armin - Filename: Router.php
- * Namespace: app\core
+ * Namespace: agelleiler\phpmvc
  * Initial version by: Armin Gellweiler, E-Mail: armin@gellweiler.net
  * Company: igus GmbH
  * Initial version created on: 26.01.22 16:02
  */
 
-namespace app\core;
-use app\core\exception\ForbiddenException;
-use app\core\exception\NotFoundException;
+namespace agelleiler\phpmvc;
+use agelleiler\phpmvc\exception\ForbiddenException;
+use agelleiler\phpmvc\exception\NotFoundException;
 
 /**
  * Class Router
- * @package app\core
+ * @package agelleiler\phpmvc
  * @author Armin Gellweiler <armin@gellweiler.net>
  */
 class Router

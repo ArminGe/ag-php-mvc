@@ -1,23 +1,23 @@
 <?php
 /**
  * Project: armin - Filename: Application.php
- * Namespace: app\core
+ * Namespace: agelleiler\phpmvc
  * Initial version by: Armin Gellweiler, E-Mail: armin@gellweiler.net
  * Company: igus GmbH
  * Initial version created on: 26.01.22 15:34
  */
 
-namespace app\core;
+namespace agelleiler\phpmvc;
 
 
-use app\core\db\Database;
-use app\core\db\DbModel;
+use agelleiler\phpmvc\db\Database;
+use agelleiler\phpmvc\db\DbModel;
 use app\models\User;
 
 /**
  * Class Application
  *
- * @package app\core
+ * @package agelleiler\phpmvc
  * @author Armin Gellweiler <armin@gellweiler.net>
  */
 class Application

@@ -1,16 +1,16 @@
 <?php
 /**
  * Project: armin - Filename: Request.php
- * Namespace: app\core
+ * Namespace: agelleiler\phpmvc
  * Initial version by: Armin Gellweiler, E-Mail: armin@gellweiler.net
  * Company: igus GmbH
  * Initial version created on: 26.01.22 16:43
  */
 
-namespace app\core;
+namespace agelleiler\phpmvc;
 /**
  * Class Request
- * @package app\core
+ * @package agelleiler\phpmvc
  * @author Armin Gellweiler <armin@gellweiler.net>
  */
 class Request

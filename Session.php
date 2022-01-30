@@ -1,16 +1,16 @@
 <?php
 /**
  * Project: armin - Filename: Session.php
- * Namespace: app\core
+ * Namespace: agelleiler\phpmvc
  * Initial version by: Armin Gellweiler, E-Mail: armin@gellweiler.net
  * Company: igus GmbH
  * Initial version created on: 28.01.22 18:27
  */
 
-namespace app\core;
+namespace agelleiler\phpmvc;
 /**
  * Class Session
- * @package app\core
+ * @package agelleiler\phpmvc
  * @author Armin Gellweiler <armin@gellweiler.net>
  */
 class Session

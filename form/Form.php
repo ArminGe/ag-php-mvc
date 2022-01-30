@@ -1,18 +1,18 @@
 <?php
 /**
  * Project: armin - Filename: Form.php
- * Namespace: app\core\form
+ * Namespace: agelleiler\phpmvc\form
  * Initial version by: Armin Gellweiler, E-Mail: armin@gellweiler.net
  * Company: igus GmbH
  * Initial version created on: 27.01.22 17:05
  */
 
-namespace app\core\form;
-use app\core\Model;
+namespace agelleiler\phpmvc\form;
+use agelleiler\phpmvc\Model;
 
 /**
  * Class Form
- * @package app\core\form
+ * @package agelleiler\phpmvc\form
  * @author Armin Gellweiler <armin@gellweiler.net>
  */
 class Form
