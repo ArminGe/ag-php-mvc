@@ -1,16 +1,16 @@
 <?php
 /**
  * Project: armin - Filename: View.php
- * Namespace: agelleiler\phpmvc
+ * Namespace: agellweiler\phpmvc
  * Initial version by: Armin Gellweiler, E-Mail: armin@gellweiler.net
  * Company: igus GmbH
  * Initial version created on: 29.01.22 22:12
  */
 
-namespace agelleiler\phpmvc;
+namespace agellweiler\phpmvc;
 /**
  * Class View
- * @package agelleiler\phpmvc
+ * @package agellweiler\phpmvc
  * @author Armin Gellweiler <armin@gellweiler.net>
  */
 class View

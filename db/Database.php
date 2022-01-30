@@ -1,19 +1,19 @@
 <?php
 /**
  * Project: armin - Filename: Database.php
- * Namespace: agelleiler\phpmvc
+ * Namespace: agellweiler\phpmvc
  * Initial version by: Armin Gellweiler, E-Mail: armin@gellweiler.net
  * Company: igus GmbH
  * Initial version created on: 28.01.22 09:24
  */
 
-namespace agelleiler\phpmvc\db;
+namespace agellweiler\phpmvc\db;
 
-use agelleiler\phpmvc\Application;
+use agellweiler\phpmvc\Application;
 
 /**
  * Class Database
- * @package agelleiler\phpmvc
+ * @package agellweiler\phpmvc
  * @author Armin Gellweiler <armin@gellweiler.net>
  */
 class Database

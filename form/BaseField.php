@@ -1,18 +1,18 @@
 <?php
 /**
  * Project: armin - Filename: BaseField.php
- * Namespace: agelleiler\phpmvc\form
+ * Namespace: agellweiler\phpmvc\form
  * Initial version by: Armin Gellweiler, E-Mail: armin@gellweiler.net
  * Company: igus GmbH
  * Initial version created on: 30.01.22 14:52
  */
 
-namespace agelleiler\phpmvc\form;
-use agelleiler\phpmvc\Model;
+namespace agellweiler\phpmvc\form;
+use agellweiler\phpmvc\Model;
 
 /**
  * Class BaseField
- * @package agelleiler\phpmvc\form
+ * @package agellweiler\phpmvc\form
  * @author Armin Gellweiler <armin@gellweiler.net>
  */
 

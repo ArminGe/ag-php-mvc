@@ -1,19 +1,19 @@
 <?php
 /**
  * Project: armin - Filename: AuthMiddleware.php
- * Namespace: agelleiler\phpmvc\middlewares
+ * Namespace: agellweiler\phpmvc\middlewares
  * Initial version by: Armin Gellweiler, E-Mail: armin@gellweiler.net
  * Company: igus GmbH
  * Initial version created on: 29.01.22 18:23
  */
 
-namespace agelleiler\phpmvc\middlewares;
-use agelleiler\phpmvc\Application;
-use agelleiler\phpmvc\exception\ForbiddenException;
+namespace agellweiler\phpmvc\middlewares;
+use agellweiler\phpmvc\Application;
+use agellweiler\phpmvc\exception\ForbiddenException;
 
 /**
  * Class AuthMiddleware
- * @package agelleiler\phpmvc\middlewares
+ * @package agellweiler\phpmvc\middlewares
  * @author Armin Gellweiler <armin@gellweiler.net>
  */
 class AuthMiddleware extends BaseMiddleware

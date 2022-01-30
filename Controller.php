@@ -1,18 +1,18 @@
 <?php
 /**
  * Project: armin - Filename: Controller.php
- * Namespace: agelleiler\phpmvc
+ * Namespace: agellweiler\phpmvc
  * Initial version by: Armin Gellweiler, E-Mail: armin@gellweiler.net
  * Company: igus GmbH
  * Initial version created on: 26.01.22 20:30
  */
 
-namespace agelleiler\phpmvc;
-use agelleiler\phpmvc\middlewares\BaseMiddleware;
+namespace agellweiler\phpmvc;
+use agellweiler\phpmvc\middlewares\BaseMiddleware;
 
 /**
  * Class Controller
- * @package agelleiler\phpmvc
+ * @package agellweiler\phpmvc
  * @author Armin Gellweiler <armin@gellweiler.net>
  */
 class Controller

@@ -1,19 +1,19 @@
 <?php
 /**
  * Project: armin - Filename: DbModel.php
- * Namespace: agelleiler\phpmvc
+ * Namespace: agellweiler\phpmvc
  * Initial version by: Armin Gellweiler, E-Mail: armin@gellweiler.net
  * Company: igus GmbH
  * Initial version created on: 28.01.22 16:07
  */
 
-namespace agelleiler\phpmvc\db;
-use agelleiler\phpmvc\Application;
-use agelleiler\phpmvc\Model;
+namespace agellweiler\phpmvc\db;
+use agellweiler\phpmvc\Application;
+use agellweiler\phpmvc\Model;
 
 /**
  * Class DbModel
- * @package agelleiler\phpmvc
+ * @package agellweiler\phpmvc
  * @author Armin Gellweiler <armin@gellweiler.net>
  */
 abstract class DbModel extends Model
