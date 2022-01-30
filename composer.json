@@ -1,15 +1,15 @@
 {
     "name": "agellweiler/php-mvc-core-framework-ag",
-    "autoload": {
-        "psr-4": {
-            "agellweiler\\phpmvc\\": "src/"
-        }
-    },
     "authors": [
         {
             "name": "Armin Gellweiler",
             "email": "armin@gellweiler.net"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "agellweiler\\phpmvc\\": "."
+        }
+    }
 }
