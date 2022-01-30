@@ -1,5 +1,5 @@
 {
-    "name": "agellweiler/php-mvc-core",
+    "name": "agellweiler/php-mvc-core-framework-ag",
     "autoload": {
         "psr-4": {
             "Ag\\PhpMvcCore\\": "src/"
